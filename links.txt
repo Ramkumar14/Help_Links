@@ -1,0 +1,44 @@
+PHP - PDF (Dynamic pdf creation)
+---------
+
+http://www.webmonkey.com/2010/02/generate_pdfs_dynamically_with_php/
+
+http://stackoverflow.com/questions/14851090/php-automatically-saving-a-dynamic-pdf-to-the-remote-server-using-dompdf
+
+http://colejoplin.com/presentations/pdf/PDF_and_PHP.html
+
+http://devzone.zend.com/1313/dynamically-generating-pdf-files-with-php-and-haru/
+
+http://www.macronimous.com/resources/Converting_HTML2PDF_using_PHP.asp
+
+http://answers.oreilly.com/topic/1414-how-to-generate-a-pdf-with-php/
+
+http://blog.luutaa.com/php/generating-a-pdf-using-codeigniter/
+
+http://www.php-guru.in/2013/html-to-pdf-conversion-in-codeigniter/
+
+http://www.tcpdf.org/examples/example_061.phps
+
+http://www.kidslovepc.com/php-tutorial/php-create-pdf-dynamic-fly-fpdf.shtml
+
+
+ASP code to PHP :
+-----------------
+
+http://www.resources.fortunedesign.co.uk/jspack/asp2php.html
+
+
+Python:
+-------
+
+ https://docs.djangoproject.com/en/dev/intro/tutorial01/
+
+ROR:
+----
+
+ http://ruby.railstutorial.org/chapters/filling-in-the-layout#sec-the_asset_pipeline 
+
+Wordpress:
+----------
+
+http://docs.woothemes.com/wc-apidocs/ 
